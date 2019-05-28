@@ -20,7 +20,14 @@
   },
   "homepage": "https://github.com/preboot/angularjs-webpack",
   "dependencies": {
-    "angular": "^1.7.0"
+    "angular": "^1.7.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "less": "^3.9.0",
+    "ng-storage": "^0.3.2",
+    "ngstorage": "^0.3.11",
+    "popper": "^1.0.1",
+    "popper.js": "^1.15.0"
   },
   "devDependencies": {
     "ajv": "^6.4.0",
